@@ -98,6 +98,5 @@ We welcome your contributions. Please feel free to fork the code, play with it, 
  - All of the required staged implemtation will be added in the Index page, so you can access them easily from there.
 
 # 🙏Support
- - Please [open an issue on GitHub](https://github.com/archanchoudhury/SOC-OpenSource/issues/new) if you'd like to report a bug or request a feature.
- - For real DFIR Training, subscribe to my [YouTube Channel](https://www.youtube.com/c/BlackPerl)
- - If you like to support my creation, <p align="left"><a href="https://www.buymeacoffee.com/BlackPerl"> <img src="images/KULQlzAg.png" width="210" height="60"></p>
+ - Please [open an issue on GitHub](https://github.com/rahimbtc1994/project-4/issues/new) if you'd like to report a bug or request a feature.
+ - If you like to support my creation, <p align="left"><a href="https://www.buymeacoffee.com/rahimbtc1994"> <img src="images/KULQlzAg.png" width="210" height="60"></p>
